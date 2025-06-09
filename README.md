@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Hasan Mert Soycan
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, html&css, Arduino
-- 💞️ I’m looking to collaborate on Arduino projects
-- 📫 How to reach me Instagram @hasanmertsoycan
+👋 Hi, I’m Hasan Mert Soycan
 
-<!---
-hasanmertsoycan/hasanmertsoycan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I’m an undergraduate student in Electrical and Electronics Engineering at Bilkent University.  
+🔧 I’m interested in digital systems, embedded programming, and scientific computing.  
+💡 Currently learning Python, HTML & CSS, and Arduino.  
+🤝 I’d be happy to collaborate on beginner-to-intermediate Arduino or hardware-related projects.  
+📬 You can reach me via LinkedIn: [@hasanmertsoycan](https://www.linkedin.com/in/hasanmertsoycan/)
