@@ -1,7 +1,7 @@
-👋 Hi, I’m Hasan Mert Soycan
+### Hasan Mert Soycan
 
-🎓 I’m an undergraduate student in Electrical and Electronics Engineering at Bilkent University.  
-🔧 I’m interested in digital systems, embedded programming, and scientific computing.  
-💡 Currently learning Python, VHDL, MATLAB, Simulink, and Arduino.  
-🤝 I’d be happy to collaborate on beginner-to-intermediate Arduino, Basys 3 or other hardware-related projects.  
-📬 You can reach me via LinkedIn: [@hasanmertsoycan](https://www.linkedin.com/in/hasanmertsoycan/)
+Undergraduate student in Electrical & Electronics Engineering and Physics at Bilkent University.
+
+Interested in theoretical physics, mathematical modeling, and understanding physical systems from first principles.
+
+📫 [LinkedIn](https://linkedin.com/in/hasanmertsoycan) · [Email](mailto:hasanmertsoycan@gmail.com)
